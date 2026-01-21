@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Namoo App v2.1.0",
+    "date": "2024.03.15",
+    "downloadUrl": "#",
+    "platform": "ios",
+    "changelog": [
+      "다크 모드 UI 가독성 개선",
+      "로그인 세션 유지 문제 수정",
+      "앱 실행 속도 20% 향상"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Namoo App v2.0.5",
+    "date": "2024.03.10",
+    "downloadUrl": "#",
+    "platform": "android",
+    "changelog": [
+      "푸시 알림 수신 오류 수정",
+      "메인 화면 위젯 레이아웃 변경"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Namoo App v2.0.0",
+    "date": "2024.02.28",
+    "downloadUrl": "#",
+    "platform": "ios",
+    "changelog": [
+      "메이저 업데이트: 완전히 새로운 디자인",
+      "홈 화면 대시보드 기능 추가",
+      "친구 초대 및 공유 기능 강화"
+    ]
+  }
+]
